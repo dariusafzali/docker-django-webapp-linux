@@ -1,4 +1,4 @@
-# Django starter app for Web App on Linux
+# Formation Approche DevOps
 
 A simple Python Django application running in a Docker container. The custom image uses port 8000. 
 
